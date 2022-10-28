@@ -134,12 +134,6 @@ public class StreamApiApplication {
                 .reduce(0.0, Double::sum);
         System.out.println(totalSalary);
         System.out.println("_______________________________________");
-
-
-
-
-
-
     }
 
 
